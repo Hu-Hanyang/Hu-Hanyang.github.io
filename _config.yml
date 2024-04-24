@@ -1,18 +1,14 @@
-url: "hanchaozhang.xyz "
-# baseurl: Hanchao-Zhang.github.io
+url: "hanyang.xyz "
+# baseurl: Hu-Hanyang.github.io
 # Basic Information
-title: Hanchao Zhang
+title: Hanyang Hu
 # subtitle:
-position: Ph.D. Candidate
-# subposition: Chair of the Chinese Student and Scholar Association (CSSA)
-subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: New York University
-subaffiliation: Grossman School of Medicine
-affiliation_link: https://www.nyu.edu
-subaffiliation_link: https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/
-email: Hanchao.Zhang@nyu.edu
-address: 180 Madision Ave, Suite 5-31C, New York, NY 10016
-address_link: https://goo.gl/maps/aQZfmiKjQmqbDsVY9
+position: Ph.D. Student
+affiliation: Simon Fraser University
+subaffiliation: Computing Science
+affiliation_link: https://www.sfu.ca/
+subaffiliation_link: https://www.sfu.ca/computing.html
+email: hha160@sfu.ca
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -22,18 +18,17 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
-# cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Hanchao-Zhang
-linkedin: https://www.linkedin.com/in/hanchao-ted-zhang-670105b7/?locale=en_US
-twitter: https://twitter.com/tedddddy_zhang
+google_scholar: https://scholar.google.ca/citations?user=d016pxMAAAAJ&hl=zh-CN&oi=ao
+cv_link: assets/files/Hanyang_CV_20240422.pdf
+github_link: https://github.com/Hu-Hanyang
+linkedin: https://www.linkedin.com/in/hanyang-hu-aaa3b62b9/
+twitter: https://twitter.com/HYangzzzz
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
-avatar: ./assets/img/avatar.jpg
-# logo: ./assets/img/logo.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/hanyang_202402.jpg
+# favicon: ./assets/img/favicon.png
+# favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -41,7 +36,7 @@ enable_footnote: false
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
