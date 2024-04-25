@@ -10,3 +10,6 @@ Prior to joining the Ph.D. program, I completed my master's degree in Power Engi
 ## Research Interests (Under construction)
 - **Optimal control**
 - **Reinforcement Learning** 
+
+## Publications and Projects
+{% include_relative _includes/projects.md %}
