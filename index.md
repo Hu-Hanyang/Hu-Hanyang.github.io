@@ -11,5 +11,5 @@ Prior to joining the Ph.D. program, I completed my master's degree in Power Engi
 - **Optimal control**
 - **Reinforcement Learning** 
 
-## Publications and Projects
+## Publications and Projects in index.md
 {% include_relative _includes/projects.md %}
