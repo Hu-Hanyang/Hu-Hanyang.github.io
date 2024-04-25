@@ -12,18 +12,3 @@ Prior to joining the Ph.D. program, I completed my master's degree in Power Engi
 ## Research Interests (Under construction)
 - **Optimal control**
 - **Reinforcement Learning** 
-
-<!-- ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities -->
-
-
-<!-- {% include_relative _includes/publications.md %} -->
-
-<!-- {% include_relative _includes/projects.md %}
-
-{% include_relative _includes/talks.md %} -->
-
-
-## Collaboration
-
-## Resources
