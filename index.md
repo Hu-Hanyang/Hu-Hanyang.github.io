@@ -12,6 +12,7 @@ During my free time, I like to play badminton and listen to music to relax.
 ## Research Interests
 - **Optimal control**
 - **Reinforcement Learning** 
+- **Reach-Avoid Game**
 
 <!-- ## Publications and Projects -->
 {% include_relative _includes/projects.md %}
