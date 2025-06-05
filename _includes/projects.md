@@ -9,13 +9,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/Aim2025ICRA.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arxiv</abbr>
+    <abbr class="badge">ICRA</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2409.19746">Learning Robust Policies via Interpretable Hamilton-Jacobi Reachability-Guided Disturbances</a></div>
     <div class="author"><strong>Hanyang Hu, Xilun Zhang, Xubo Lyu, Mo Chen</strong></div>
-    <div class="periodical"><em>arxiv</em></div>
+    <div class="periodical"><em>2025 IEEE International Conference on Robotics & Automation (ICRA)</em></div>
     <!-- <div class="links">
     <a href="https://arxiv.org/abs/2306.06534" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://arxiv.org/pdf/2306.06534.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
